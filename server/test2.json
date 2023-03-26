@@ -1,0 +1,514 @@
+{
+  "props": {
+    "pageProps": {
+      "communityDetails": {
+        "pageContent": {
+          "id": "3j8wmCLaFwtTEHAY1lMwt8",
+          "status": "AVAILABLE",
+          "realPageCommunityId": 1002451,
+          "name": "Camden Interlocken",
+          "communityPageSubtitle": "",
+          "slug": "camden-interlocken",
+          "metaDescription": null,
+          "headerImageUrl": null,
+          "description": null,
+          "latitude": null,
+          "longitude": null,
+          "address": null,
+          "phoneNumber": null,
+          "specialCtaTitle": "",
+          "specialCtaDescription": "",
+          "box1Title": "Life at Camden Interlocken",
+          "box1Image": "https://images.ctfassets.net/pg6xj64qk0kh/1f3cggXILpaILr5xMF1Urr/c1437614caed4631ddd897df66c6b89a/24-camden-interlocken-apartments-broomfield-co-with-mountain-views.jpg",
+          "box1Description": "\u003cp\u003eEndless beauty from the Rocky Mountains is inescapable at Camden Interlocken in Broomfield with breathtaking views around every corner. Each open-concept, pet-friendly \u003ca href=\"https://www.camdenliving.com/apartments/broomfield-co/camden-interlocken/available-apartments\" class=\"community-links\" target=\"_blank\" rel=\"noreferrer\"\u003e\u003cb\u003eone \u0026amp; two-bedroom apartment home\u003c/b\u003e\u003c/a\u003e at Camden Interlocken features stainless steel appliances, white Brulee-quartz countertops, white subway tile backsplash, hardwood-style flooring, modern white cabinetry with nickel finishes, \u0026amp; a private balcony/patio to add to your living experience. Working from home? Check out our D \u0026amp; G floor plans that have a flex space that is perfect for a home office or visit our community workspace with free WiFi that helps you stay connected \u0026amp; productive.  \u003c/p\u003e\u003cp\u003eStop by anytime, we can’t wait to show you around! \u003c/p\u003e",
+          "box2Title": "Your Pets Are Family Too",
+          "box2Description": "\u003cp\u003eWe welcome cats \u0026amp; dogs, up to three pets per apartment home. We want your pets to love where they live too! Visit our onsite dog park \u0026amp; let your pet run off-leash while meeting other residents at the community. Call us with any pet-related questions!\u003c/p\u003e",
+          "box2Image": "https://images.ctfassets.net/pg6xj64qk0kh/2dFC9mkyB1gQguNgfc9Liy/c53de7762ceb7623be9e0ca2e485c237/18-camden-interlocken-apartments-broomfield-co-dog-park-with-gazebo.jpg",
+          "box3Title": "Resort-Style Pool and Hot Tub",
+          "box3Description": "\u003cp\u003eBask in the sun by our stunning resort-style swimming pool with WiFi or take a dip in our hot tub. Invite your friends to grill out \u0026amp; hang out in the outdoor living area complete with a sauna.\u003c/p\u003e",
+          "box3Image": "https://images.ctfassets.net/pg6xj64qk0kh/3Ewg810MMzJKfmGeboMkSJ/c0660c24e5635e2bc54b2d9ffa49af6d/camden-interlocken-apartments-broomfield-co-resort-style-pool.jpg",
+          "box4Title": "24-Hour Fitness Center",
+          "box4Description": "\u003cp\u003eCancel your gym membership and enjoy our 24-hour Fitness Center with cardio equipment \u0026amp; free weights. \u003c/p\u003e",
+          "box4Image": "https://images.ctfassets.net/pg6xj64qk0kh/mVy6S9GFErt4XX5QKjJR8/3cc6ad4fe112e13fddc4544ff1b161f7/camden-interlocken-apartments-broomfield-co-fitness-center.jpg",
+          "box5Title": "Watch the Video to Learn About Available Touring Options",
+          "box5Description": "\u003cp\u003eTake a \u003cb\u003eSelf-Guided Tour,\u003c/b\u003e exploring the apartment homes and community amenities at your own pace with a Camden team member only a text or call away! Or, take a tour from the convenience of your current home with a\u003cb\u003e Live Video Tour \u003c/b\u003eon the video call platform of your choice. A \u003cb\u003eTeam Member Tour\u003c/b\u003e is also available with a leasing agent guiding you throughout the community. Schedule your tour today!\u003c/p\u003e",
+          "communityVideoUrl": "https://www.youtube.com/watch?v=_jLNjLZekqI",
+          "neighborhoodImage": "https://images.ctfassets.net/pg6xj64qk0kh/1sOU5dnVBDseTPKRLcxLu6/154a95b326e6ef14b5f8f5c02a947132/23-camden-interlocken-apartments-broomfield-co-with-view-of-omni-interlocken-golf-course.jpg",
+          "neighborhoodDescription": "\u003cp\u003eConveniently located off Highway 36, Camden Interlocken is twenty minutes from Downtown Denver \u0026amp; ten minutes from Boulder, making our spectacular apartment community perfect for both city lovers \u0026amp; outdoor adventure seekers. Enjoy the surrounding open space - walking, hiking, or running alongside pristine views of the Flatirons Mountain. Residents enjoy direct access to \u003ca href=\"https://www.omnihotels.com/hotels/denver-interlocken/golf\" class=\"community-links\" target=\"_blank\" rel=\"noreferrer\"\u003e\u003cb\u003eOmni Interlocken Golf Course\u003c/b\u003e\u003c/a\u003e, concerts at the 1st Bank Center, \u0026amp; shopping at nearby mega-mall \u003ca href=\"http://www.flatironcrossing.com/\" class=\"community-links\" target=\"_blank\" rel=\"noreferrer\"\u003e\u003cb\u003eFlatIron Crossing\u003c/b\u003e\u003c/a\u003e. And just within walking distance is a Walmart Supercenter to take care of all of your grocery needs.\u003c/p\u003e",
+          "googleMapUrl": "https://www.google.com/maps/place/Camden+Interlocken+Apartments/@39.9234859,-105.1346737,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x55f30fa274958f95!8m2!3d39.9234859!4d-105.132485?hl=en",
+          "facebookProfileUrl": "http://www.facebook.com/CamdenInterlocken",
+          "instagramProfileUrl": "http://instagram.com/CamdenInterlocken",
+          "twitterProfileUrl": "http://www.twitter.com/CamdenIntrlckn",
+          "yelpProfileUrl": "http://www.yelp.com/biz/WJvo5mpubR93RUvFuUM4Wg",
+          "sitePlan": {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/5BPBmT4eRxZ4Nf41MZXZzd/73d6ac572a5c5cdaaf02e2940e41d577/camdeninterlocken-sitemap_0.jpg",
+            "title": "camdeninterlocken-sitemap_0.jpg",
+            "__typename": "GeneralImage"
+          },
+          "openAvailableApartmentsInNewBrowserTab": false,
+          "productType": "Apartment",
+          "__typename": "PageContent"
+        },
+        "teaser": {
+          "minBedrooms": "1",
+          "maxBedrooms": "2",
+          "minBathrooms": "1",
+          "maxBathrooms": "2",
+          "saveUpPrice": "855",
+          "startingPrice": "1709",
+          "__typename": "CommunityTeaser"
+        },
+        "featuredImages": [
+          {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/6DKzk5ecCCz7CoLXy9Rzja/a15ad8743950a444735afda0ddd31624/camden-interlocken-apartments-broomfield-co-kitchen-with-white-shaker-cabinets-stainless-and-quartz-countertops.jpg",
+            "description": "Kitchen with white cabinetry, quartz countertops, and stainless steel appliances",
+            "__typename": "DescriptionImage"
+          },
+          {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/4OIhVTWSn27COGDH2dTOlM/71d6cddf5cfcc55053c1c89fc1691dec/camden-interlocken-apartments-broomfield-co-open-concept-living-room-with-fireplace.jpg",
+            "description": "Open concept living room with gas fireplace",
+            "__typename": "DescriptionImage"
+          },
+          {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/1dA10oRYfnY2XFiINqlZy9/8622717d33a51fea1facf8434023bb7d/13-camden-interlocken-apartments-broomfield-co-with-private-garages.jpg",
+            "description": "With private garages",
+            "__typename": "DescriptionImage"
+          },
+          {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/1sOU5dnVBDseTPKRLcxLu6/154a95b326e6ef14b5f8f5c02a947132/23-camden-interlocken-apartments-broomfield-co-with-view-of-omni-interlocken-golf-course.jpg",
+            "description": "With view of omni interlocken golf course",
+            "__typename": "DescriptionImage"
+          },
+          {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/1f3cggXILpaILr5xMF1Urr/c1437614caed4631ddd897df66c6b89a/24-camden-interlocken-apartments-broomfield-co-with-mountain-views.jpg",
+            "description": "With mountain views",
+            "__typename": "DescriptionImage"
+          },
+          {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/mVy6S9GFErt4XX5QKjJR8/3cc6ad4fe112e13fddc4544ff1b161f7/camden-interlocken-apartments-broomfield-co-fitness-center.jpg",
+            "description": "Fitness center with cardio and free weights",
+            "__typename": "DescriptionImage"
+          },
+          {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/2dFC9mkyB1gQguNgfc9Liy/c53de7762ceb7623be9e0ca2e485c237/18-camden-interlocken-apartments-broomfield-co-dog-park-with-gazebo.jpg",
+            "description": "Dog park with gazebo",
+            "__typename": "DescriptionImage"
+          },
+          {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/18hRvWN7NJGVHqeGTV5BL1/adc6b73ab662d3accac68a40606f0604/camden-interlocken-apartments-broomfield-co-walking-distance-to-east-park.jpg",
+            "description": "Walking distance to East Park",
+            "__typename": "DescriptionImage"
+          },
+          {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/5DSjRDmRkGPwpesPx8UeVP/41fb5cd916e62ab24001e50aa6a03ff5/25-camden-interlocken-apartments-broomfield-co-welcome-sign.jpg",
+            "description": "Welcome sign",
+            "__typename": "DescriptionImage"
+          },
+          {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/470pXplJHdAXJVudtKcr0K/b03ae76bd771300138646c49e802190f/19-camden-interlocken-apartments-broomfield-co-dog-park.jpg",
+            "description": "Dog park",
+            "__typename": "DescriptionImage"
+          }
+        ],
+        "contactInformation": {
+          "address": "705 Eldorado Blvd._ Broomfield, CO 80021",
+          "phone": "(720) 573-0133",
+          "email": "interlocken@camdenliving.com                      ",
+          "hoursData": {
+            "dateRange1": {
+              "hours_operation_start": "9:00:00",
+              "hours_operation_end": "18:00:00",
+              "hours_operation_start_weekday": "Mon",
+              "hours_operation_end_weekday": "Fri",
+              "__typename": "OperatingSchedule"
+            },
+            "dateRange2": {
+              "hours_operation_start": "10:00:00",
+              "hours_operation_end": "17:00:00",
+              "hours_operation_start_weekday": "Sat",
+              "hours_operation_end_weekday": "",
+              "__typename": "OperatingSchedule"
+            },
+            "dateRange3": {
+              "hours_operation_start": "",
+              "hours_operation_end": "",
+              "hours_operation_start_weekday": "Sun",
+              "hours_operation_end_weekday": "",
+              "__typename": "OperatingSchedule"
+            },
+            "communityDate": "2023-03-18",
+            "communityHour": "22:54",
+            "__typename": "CommunityContactHours"
+          },
+          "__typename": "ContactInformation"
+        },
+        "amenities": [
+          {
+            "category": {
+              "title": "Apartment Features",
+              "icon": "/icons/blue/sofa.svg",
+              "photos": [
+                {
+                  "url": "https://images.ctfassets.net/pg6xj64qk0kh/1ltc7BI8ctmUhCGRL5zzO0/c79d1c3254c61a840617fb126f4121c6/furnish-camden-apartment-through-cort-partnership.jpg",
+                  "__typename": "AmenityPhotos"
+                }
+              ],
+              "__typename": "AmenityCategory"
+            },
+            "mainContent": [
+              "White Brulee-Quartz Countertops in Kitchen \u0026 Bathrooms",
+              "Stainless Steel Appliances",
+              "Undermount Kitchen Sinks",
+              "White Subway Tile Backsplashes",
+              "White Shaker Cabinetry with Brushed Nickel Fixtures",
+              "Kitchen Pantries",
+              "Hardwood-Style Flooring",
+              "Gas Fireplaces with Mantels",
+              "Full-Size Washer \u0026 Dryer in Every Apartment Home",
+              "Oversized Soaking Bathtubs \u0026 Double Sink Vanities",
+              "Private Patios \u0026 Balconies",
+              "Flexible Space for a Home Office",
+              "Pristine Views of the Flatirons Mountain",
+              "Track Lighting in Kitchens",
+              "Walk-In Closets",
+              "9-Foot Ceilings with Crown Molding",
+              "USB Outlets",
+              "Furnish your apartment through Camden-exclusive CORT discount"
+            ],
+            "__typename": "Amenity"
+          },
+          {
+            "category": {
+              "title": "Lifestyle \u0026 Fitness",
+              "icon": "/icons/blue/pool.svg",
+              "photos": [],
+              "__typename": "AmenityCategory"
+            },
+            "mainContent": [
+              "Resort-Style Swimming Pool",
+              "Sauna \u0026 Spa",
+              "State-of-the-Art Fitness Center",
+              "Social Lounge with Billiards",
+              "Firepit",
+              "Two Poolside Gas Grills",
+              "Direct Access to Hiking Trails"
+            ],
+            "__typename": "Amenity"
+          },
+          {
+            "category": {
+              "title": "Pet Perks",
+              "icon": "/icons/blue/pets.svg",
+              "photos": [],
+              "__typename": "AmenityCategory"
+            },
+            "mainContent": [
+              "Cats \u0026 Dogs Welcome, up to Three Pets per Apartment Home",
+              "Dog Park Overlooking Beautiful Mountain Views",
+              "Plenty of Surrounding Open Space to Walk, Hike, \u0026 Run With Your Pet",
+              "Pet Fee: $400 per Pet (Non-Refundable)",
+              "Pet Rent: $35 per Month per Pet",
+              "Restricted Breeds: American Pit Bull Terrier, American Staffordshire Terrier, Staffordshire Bull Terrier, any mix of the previous breeds, or any other dog or breed deemed aggressive"
+            ],
+            "__typename": "Amenity"
+          },
+          {
+            "category": {
+              "title": "Parking",
+              "icon": "/icons/blue/local_parking.svg",
+              "photos": [],
+              "__typename": "AmenityCategory"
+            },
+            "mainContent": [
+              "Private Garage with Every Apartment Home",
+              "Reserved parking available starting at $40 per vehicle per month"
+            ],
+            "__typename": "Amenity"
+          },
+          {
+            "category": {
+              "title": "Technology",
+              "icon": "/icons/blue/wifi.svg",
+              "photos": [],
+              "__typename": "AmenityCategory"
+            },
+            "mainContent": [
+              "Online Maintenance Requests, Rent Payments \u0026 Private Social Network-MyCamden.com",
+              "Mastercard, Visa, American Express \u0026 Discover Accepted for Rent Payments (Charges May Apply)",
+              "Smart Door Locks and Gates - Residents Can Move Throughout the Community and into their Home using only their Smartphone",
+              "BILT: Earn Points Redeemable for Travel and More On Every Rent Payment",
+              "Technology Package with Savings of up to 47% Off Retail Pricing",
+              "High-Speed Internet with Speeds up to 175 Mbps \u0026 WiFi Included",
+              "140+ Channels Including Over 80 HD Channels",
+              "Access to the Xfinity TV Mobile App on Your Smart Device",
+              "Community Workspace with Cloud Printer",
+              "WiFi in Common Areas"
+            ],
+            "__typename": "Amenity"
+          },
+          {
+            "category": {
+              "title": "Schools",
+              "icon": "/icons/blue/school.svg",
+              "photos": [],
+              "__typename": "AmenityCategory"
+            },
+            "mainContent": [
+              "Emerald Elementary School",
+              "Broomfield Heights Middle School",
+              "Broomfield High School"
+            ],
+            "__typename": "Amenity"
+          },
+          {
+            "category": {
+              "title": "Services",
+              "icon": "/icons/blue/room_service.svg",
+              "photos": [],
+              "__typename": "AmenityCategory"
+            },
+            "mainContent": [
+              "24-Hour, Camden-Employed Contact Center Available",
+              "24-Hour Emergency Maintenance",
+              "Air Purification through Curran Biotech Capture Coating in Common Areas",
+              "Front Door Trash \u0026 Recycling Pick Up",
+              "Clubhouse Rental Available"
+            ],
+            "__typename": "Amenity"
+          },
+          {
+            "category": {
+              "title": "Sustainability",
+              "icon": "/icons/blue/eco.svg",
+              "photos": [],
+              "__typename": "AmenityCategory"
+            },
+            "mainContent": [
+              "Non-Smoking Community",
+              "Front Door Recycling Pick Up",
+              "Beautifully Landscaped \u0026 Maintained Grounds"
+            ],
+            "__typename": "Amenity"
+          }
+        ],
+        "virtualTour": {
+          "type": "helix",
+          "tours": [
+            {
+              "caption": "Virtual Tour",
+              "title": "Virtual Tour",
+              "thumbnail": "",
+              "iframeUrl": "https://helixmedia360.com/Camden/Camden.Interlocken.html",
+              "__typename": "Tour"
+            }
+          ],
+          "__typename": "VirtualTour"
+        },
+        "newCommunityInfo": {
+          "bedRange": "",
+          "bathRange": "",
+          "openingDateStartingAt": "",
+          "__typename": "INewCommunityInfo"
+        },
+        "communitySubFooter": {
+          "title": "Maintenance-Free Living",
+          "description": "Never worry about fixing a dishwasher or clogged drain again! Camden's skilled maintenance team will meet every need, from smoke alarm batteries to air filter replacements. Landscaping needs are taken care of too, with mowing, tree trimming, and more handled year-round! Start your maintenance-free lifestyle today.",
+          "buttonText": "Learn More",
+          "image": {
+            "url": "https://images.ctfassets.net/pg6xj64qk0kh/3FF0O7MlkFDxCWXhOa3Sfv/04073913cf3b98e0b7e4c40a07c2d36a/camden-royal-oaks-apartments-houston-tx-maintenance.jpg",
+            "__typename": "GeneralImage"
+          },
+          "__typename": "CommunitySubFooter"
+        },
+        "__typename": "LandingPageDataCommunity"
+      },
+      "citySlug": "broomfield-co",
+      "cityName": "Broomfield",
+      "stateName": "CO",
+      "communitySlug": "camden-interlocken",
+      "regionalLanding": false,
+      "funnelFlags": {
+        "chatBot": true,
+        "prospectForm": true,
+        "appointmentForm": true,
+        "funnelId": "2463",
+        "groupId": "2734",
+        "prospectFormStudio": false,
+        "prospectFormOneBedroom": false,
+        "prospectFormTwoBedroom": false,
+        "prospectFormThreeBedroom": false,
+        "prospectFormFourBedroom": false,
+        "realpageSgtSelfGuidedTour": false,
+        "realpageSgtId": "",
+        "__typename": "funnelFlags"
+      },
+      "hasFloorPlans": false,
+      "suggestedFloorPlans": [
+        {
+          "availableUnits": 3,
+          "availableUnitIds": ["0825", "1525", "2125"],
+          "realPageUnitId": 532,
+          "realPageFloorPlanId": 111,
+          "bathrooms": "1",
+          "bedrooms": "1",
+          "name": "A",
+          "slug": "a",
+          "squareFeet": 715,
+          "leaseTerm": 15,
+          "monthlyRent": 1709,
+          "moveInDate": "2023-03-20T00:00:00.000Z",
+          "available": true,
+          "floorPlanBanner": "",
+          "unitNumber": "1525",
+          "media": {
+            "overrideName": "A",
+            "floorPlanImage": "https://images.ctfassets.net/pg6xj64qk0kh/4vCjt7OEhMLg5l6DOlfvmc/f03bbcd6936b459026c32d97d83b2d40/camden-interlocken-apartments-denver-colorado-floor-plan.jpg",
+            "virtualTourUrl": "https://helixmedia360.com/Camden/Camden.Interlocken.html?s=pano10300\u0026iframe=true",
+            "floorPlanImageTitle": "Blueprint of A Floor Plan, 1 Bedroom and 1 Bathroom at Camden Interlocken Apartments in Broomfield, CO",
+            "__typename": "IFloorPlanMedia"
+          },
+          "__typename": "AvailableApartment"
+        },
+        {
+          "availableUnits": 4,
+          "availableUnitIds": ["0512", "1732", "2332", "2412"],
+          "realPageUnitId": 654,
+          "realPageFloorPlanId": 113,
+          "bathrooms": "1",
+          "bedrooms": "1",
+          "name": "C",
+          "slug": "c",
+          "squareFeet": 840,
+          "leaseTerm": 15,
+          "monthlyRent": 1809,
+          "moveInDate": "2023-03-20T00:00:00.000Z",
+          "available": true,
+          "floorPlanBanner": "",
+          "unitNumber": "2412",
+          "media": {
+            "overrideName": "C",
+            "floorPlanImage": "https://images.ctfassets.net/pg6xj64qk0kh/o1lP9ntPrBs6jRzBlb8RZ/18ee1179e305beb8b84b0114f4085fde/camden-interlocken-apartments-denver-colorado-floor-plan-c.jpg",
+            "virtualTourUrl": "https://helixmedia360.com/Camden/Camden.Interlocken.html?s=pano24918\u0026h=173.35\u0026v=0.0000\u0026f=90.0000\u0026iframe=true",
+            "floorPlanImageTitle": "Blueprint of C Floor Plan, 1 Bedroom and 1 Bathroom at Camden Interlocken Apartments in Broomfield, CO",
+            "__typename": "IFloorPlanMedia"
+          },
+          "__typename": "AvailableApartment"
+        },
+        {
+          "availableUnits": 2,
+          "availableUnitIds": ["1024", "1434"],
+          "realPageUnitId": 522,
+          "realPageFloorPlanId": 112,
+          "bathrooms": "1",
+          "bedrooms": "1",
+          "name": "B",
+          "slug": "b",
+          "squareFeet": 780,
+          "leaseTerm": 14,
+          "monthlyRent": 1849,
+          "moveInDate": "2023-05-19T00:00:00.000Z",
+          "available": true,
+          "floorPlanBanner": "",
+          "unitNumber": "1434",
+          "media": {
+            "overrideName": "B",
+            "floorPlanImage": "https://images.ctfassets.net/pg6xj64qk0kh/3y8x4df9Vt2nSZZiWU2mHG/dfed7744c494a21303b17206f8a86cfc/camden-interlocken-apartments-denver-colorado-floor-plan-b.jpg",
+            "virtualTourUrl": "https://helixmedia360.com/Camden/Camden.Interlocken.html?s=pano10346\u0026iframe=true",
+            "floorPlanImageTitle": "Blueprint of B Floor Plan, 1 Bedroom and 1 Bathroom at Camden Interlocken Apartments in Broomfield, CO",
+            "__typename": "IFloorPlanMedia"
+          },
+          "__typename": "AvailableApartment"
+        },
+        {
+          "availableUnits": 4,
+          "availableUnitIds": ["0632", "1622", "1932", "2022"],
+          "realPageUnitId": 597,
+          "realPageFloorPlanId": 115,
+          "bathrooms": "1",
+          "bedrooms": "2",
+          "name": "E",
+          "slug": "e",
+          "squareFeet": 1030,
+          "leaseTerm": 15,
+          "monthlyRent": 1939,
+          "moveInDate": "2023-03-20T00:00:00.000Z",
+          "available": true,
+          "floorPlanBanner": "",
+          "unitNumber": "2022",
+          "media": {
+            "overrideName": "E",
+            "floorPlanImage": "https://images.ctfassets.net/pg6xj64qk0kh/3YhqyAESuhTYalCqjxzm1O/f877b3e51f012794ea862a7c6448cbad/camden-interlocken-apartments-denver-colorado-floor-plan-e.jpg",
+            "virtualTourUrl": "https://helixmedia360.com/Camden/Camden.Interlocken.html?s=pano28966",
+            "floorPlanImageTitle": "Blueprint of E Floor Plan, 2 Bedrooms and 1 Bathroom at Camden Interlocken Apartments in Broomfield, CO",
+            "__typename": "IFloorPlanMedia"
+          },
+          "__typename": "AvailableApartment"
+        },
+        {
+          "availableUnits": 8,
+          "availableUnitIds": ["0521", "0831", "0833", "0921", "1421", "1531", "1623", "2123"],
+          "realPageUnitId": 446,
+          "realPageFloorPlanId": 116,
+          "bathrooms": "2",
+          "bedrooms": "2",
+          "name": "F",
+          "slug": "f",
+          "squareFeet": 1185,
+          "leaseTerm": 15,
+          "monthlyRent": 2239,
+          "moveInDate": "2023-03-20T00:00:00.000Z",
+          "available": true,
+          "floorPlanBanner": "",
+          "unitNumber": "0921",
+          "media": {
+            "overrideName": "F",
+            "floorPlanImage": "https://images.ctfassets.net/pg6xj64qk0kh/4VMwfuw0ov9EejDFZUdfxw/e1f5a1bdca96f9d0a41360e1c5ae0a53/camden-interlocken-apartments-denver-colorado-floor-plan-f.jpg",
+            "virtualTourUrl": "https://helixmedia360.com/Camden/Camden.Interlocken.html?s=pano10255\u0026iframe=true",
+            "floorPlanImageTitle": "Blueprint of F Floor Plan, 2 Bedrooms and 2 Bathrooms at Camden Interlocken Apartments in Broomfield, CO",
+            "__typename": "IFloorPlanMedia"
+          },
+          "__typename": "AvailableApartment"
+        },
+        {
+          "availableUnits": 1,
+          "availableUnitIds": ["0721"],
+          "realPageUnitId": 416,
+          "realPageFloorPlanId": 117,
+          "bathrooms": "2",
+          "bedrooms": "2",
+          "name": "G",
+          "slug": "g",
+          "squareFeet": 1240,
+          "leaseTerm": 15,
+          "monthlyRent": 2419,
+          "moveInDate": "2023-04-14T00:00:00.000Z",
+          "available": true,
+          "floorPlanBanner": "Home Office Space!",
+          "unitNumber": "0721",
+          "media": {
+            "overrideName": "G",
+            "floorPlanImage": "https://images.ctfassets.net/pg6xj64qk0kh/4AHiCVeDGuzjoCdLLPVNhS/8e33ae44dec174dab34f6bd9fd8920d9/camden-interlocken-apartments-denver-colorado-floor-plan-g.jpg",
+            "virtualTourUrl": "https://helixmedia360.com/Camden/Camden.Interlocken.html?s=pano24853\u0026h=89.11\u0026v=0.0000\u0026f=90.0000\u0026iframe=true",
+            "floorPlanImageTitle": "Blueprint of G Floor Plan, 2 Bedrooms and 2 Bathrooms at Camden Interlocken Apartments in Broomfield, CO",
+            "__typename": "IFloorPlanMedia"
+          },
+          "__typename": "AvailableApartment"
+        }
+      ],
+      "communityBanner": null,
+      "siteWideBanner": {
+        "bannerText": "Camden offers a variety of options to help you find your new home.",
+        "bannerSubText": "Call 24 x 7 to schedule a tour!",
+        "ctaText": "Tour Options",
+        "showBanner": false,
+        "__typename": "SiteBanner"
+      }
+    },
+    "__N_SSP": true
+  },
+  "page": "/apartments/[[...allLocationSlugs]]",
+  "query": { "allLocationSlugs": ["broomfield-co", "camden-interlocken"] },
+  "buildId": "I9dxTFiW0qS2BUi0d8tt1",
+  "isFallback": false,
+  "gssp": true
+}
