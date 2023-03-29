@@ -8,7 +8,7 @@ export type ListResult = {
   unformattedPrice: number;
   address: string;
   addressStreet: string;
-  addressCity: string;
+  addressCity: 'Boulder' | 'Superior' | 'Louisville';
   addressState: 'CO';
   addressZipcode: string;
 };
