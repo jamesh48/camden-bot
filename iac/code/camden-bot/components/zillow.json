@@ -1,0 +1,1887 @@
+{
+  "cat1": {
+    "searchResults": {
+      "listResults": [
+        {
+          "zpid": "13694892",
+          "id": "13694892",
+          "providerListingId": null,
+          "imgSrc": "https://photos.zillowstatic.com/fp/8f18a1b8fe2a5ba23b0722ba9b6bb328-p_e.jpg",
+          "hasImage": true,
+          "carouselPhotos": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/8f18a1b8fe2a5ba23b0722ba9b6bb328-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/0bf7b409808395f70befa19bf4a7e522-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/eb281f6aa198dcebfe16279cc5024c60-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9730340f01187caa93692bd38f7d03c1-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7ba891201f466a1b21113937a65467b0-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/a57018145a3c1dde69a6de901e410115-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/d261eb68709015c6644f277557265968-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/ce8a15927ac0dcbc2085614891093031-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/934aaa7861ce897f830af82643484c82-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/846ab57faffa4f193f742fa4b4344af1-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/d717b24a9703bd09493ee5df355932b0-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/b0d450ed371b60552d79a1143b27fe4d-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/d304644e301626ac81423067ff1d0f81-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9286c8582d2d65e47110ac54df72e798-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/651fafdce7f26958bf4bfdb14fa95efe-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/6755c507dd644e2ffa4b746722a6d7a8-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c43f922bb22c06ac44822a91382cb9de-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/32c84f5082d0d78bf7b67941e208cc64-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/2a5cf145ecf8ec78282b744e5d20908f-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7680b025d322440dc71e86351bd7cdd5-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/0e5218e9065c92efc0a0ad12839c10aa-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/6323e31b47f7389cd7e6d9295264a3be-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/168626cc92e86c53b44b0c5c28a3afba-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/76ac0c024441310fcc68e30ac42ec40e-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/b9fa15e7312ed0b5c50c409453d16c60-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/d8e76c41e318c927edfebdb786bf4735-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/ef0250f3467f5e9d72ea59d04b2e9ec1-p_e.jpg"
+            }
+          ],
+          "detailUrl": "https://www.zillow.com/homedetails/8722-Carr-Loop-Westminster-CO-80005/13694892_zpid/",
+          "statusType": "FOR_SALE",
+          "statusText": "Coming soon",
+          "countryCurrency": "$",
+          "price": "$430,000",
+          "unformattedPrice": 430000,
+          "address": "8722 Carr Loop, Westminster, CO 80005",
+          "addressStreet": "8722 Carr Loop",
+          "addressCity": "Westminster",
+          "addressState": "CO",
+          "addressZipcode": "80005",
+          "isUndisclosedAddress": false,
+          "beds": 3,
+          "baths": 4,
+          "area": 1650,
+          "latLong": { "latitude": 39.85559, "longitude": -105.09301 },
+          "isZillowOwned": false,
+          "variableData": {
+            "type": "OPEN_HOUSE",
+            "text": "Open: Sat. 11am-1pm"
+          },
+          "badgeInfo": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 13694892,
+              "streetAddress": "8722 Carr Loop",
+              "zipcode": "80005",
+              "city": "Westminster",
+              "state": "CO",
+              "latitude": 39.85559,
+              "longitude": -105.09301,
+              "price": 430000,
+              "bathrooms": 4,
+              "bedrooms": 3,
+              "livingArea": 1650,
+              "homeType": "TOWNHOUSE",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "zestimate": 292300,
+              "rentZestimate": 2228,
+              "listing_sub_type": {
+                "is_openHouse": true,
+                "is_comingSoon": true
+              },
+              "openHouse": "Sat. 11am-1pm",
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 430000,
+              "open_house_info": {
+                "open_house_showing": [
+                  {
+                    "open_house_start": 1680372000000,
+                    "open_house_end": 1680379200000
+                  }
+                ]
+              },
+              "comingSoonOnMarketDate": 1680134400000,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 258777,
+              "lotAreaValue": 1612,
+              "lotAreaUnit": "sqft"
+            }
+          },
+          "isSaved": false,
+          "hasOpenHouse": true,
+          "openHouseStartDate": "2023-04-01T11:00:00",
+          "openHouseEndDate": "2023-04-01T13:00:00",
+          "openHouseDescription": "Open House - 11:00 AM - 1:00 PM",
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "pgapt": "ComingSoon",
+          "sgapt": "Coming Soon",
+          "zestimate": 292300,
+          "shouldShowZestimateAsPrice": false,
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_48_23.jpg",
+          "info1String": "MLS ID #5393433",
+          "brokerName": "Real Broker LLC",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "availabilityDate": null,
+          "list": true,
+          "relaxed": false
+        },
+        {
+          "zpid": "157443882",
+          "id": "157443882",
+          "providerListingId": null,
+          "imgSrc": "https://photos.zillowstatic.com/fp/de4eef73c20c01d91462762244bed91e-p_e.jpg",
+          "hasImage": true,
+          "carouselPhotos": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/de4eef73c20c01d91462762244bed91e-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cd0a598befd5dbc504c31b8b1d99ec15-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/8bebd59d966bcfd385783f1e8d4f23bc-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7cd596a25279bcddeca7aedba9f22023-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7b2c9a273f853e00a50b6cba5c82dd49-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/6780ee22f748e0c5640e5ba0416c9bea-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/254801ae6a58fd165755c8b49f2208ee-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/1ede0cbe59b35c84161d2ce84bddb057-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/ce3f3a02c6eb384a07bf042658497e3f-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/164b1f7b6728b007fd32576a6e954f36-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/1054d11f36567a9a88009231f5fd322c-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/ff096006de9a0e96aad893570c5abf3d-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7fae74d83ab66741ab2fece7d5cf987c-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/ced926100ff8f1933a8b78e599acbdc2-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f2943dd34615b2af50071f430ef61b69-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/a926f9244fdaf6b5354f94199a3e7093-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/ec3c2765f5b084fd0512fc351f92979c-p_e.jpg"
+            }
+          ],
+          "detailUrl": "https://www.zillow.com/homedetails/6174-Needlegrass-Grn-292-Frederick-CO-80530/157443882_zpid/",
+          "statusType": "FOR_SALE",
+          "statusText": "Home for sale",
+          "countryCurrency": "$",
+          "price": "$259,990",
+          "unformattedPrice": 259990,
+          "address": "6174 Needlegrass Green Lot 292, Frederick, CO 80530",
+          "addressStreet": "6174 Needlegrass Green Lot 292",
+          "addressCity": "Frederick",
+          "addressState": "CO",
+          "addressZipcode": "80530",
+          "isUndisclosedAddress": false,
+          "beds": 2,
+          "baths": 2,
+          "area": 1326,
+          "latLong": { "latitude": 40.0901, "longitude": -104.92852 },
+          "isZillowOwned": false,
+          "variableData": {
+            "type": "TIME_ON_INFO",
+            "text": "23 hours ago",
+            "data": { "isFresh": false }
+          },
+          "badgeInfo": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 157443882,
+              "streetAddress": "6174 Needlegrass Green Lot 292",
+              "zipcode": "80530",
+              "city": "Frederick",
+              "state": "CO",
+              "latitude": 40.0901,
+              "longitude": -104.92852,
+              "price": 259990,
+              "bathrooms": 2,
+              "bedrooms": 2,
+              "livingArea": 1326,
+              "homeType": "MANUFACTURED",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "rentZestimate": 2028,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 259990,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 128235,
+              "unit": "# 292",
+              "lotAreaValue": 3049.2,
+              "lotAreaUnit": "sqft"
+            }
+          },
+          "isSaved": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "zestimate": null,
+          "shouldShowZestimateAsPrice": false,
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_48_23.jpg",
+          "info1String": "MLS ID #8347398",
+          "brokerName": "JPAR Modern Real Estate",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "availabilityDate": null,
+          "list": true,
+          "relaxed": false
+        },
+        {
+          "zpid": "58648196",
+          "id": "58648196",
+          "providerListingId": null,
+          "imgSrc": "https://photos.zillowstatic.com/fp/95775746a693698a081fcefa5de6f65e-p_e.jpg",
+          "hasImage": true,
+          "carouselPhotos": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/95775746a693698a081fcefa5de6f65e-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/16394eec6af097983372ed97fe4813ad-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/b2b0323d1e7132a1ff5166b1c06c2192-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/7060ddf1d6acc49d7c249c5ad842a98a-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/a7a2a6e47ba2be45842dab52f058faf8-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/1090748f1533309286bb17d75c38ad16-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/56fcae6ec92f1cc030971dfa12a3e067-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/5dc52b6c6a33e596ff77e31610d266d7-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/1b5648c4723f18b788b20a05ec230869-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/8e2423d98a83f2c631e34a72af50c5b5-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e0a3e74dedce928f3293c1c47e1e5d90-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/d7a2219454c83869487f0bb63ea812d1-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/de69875bdecd3b24522855bbe06c4ac5-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/600d33a86816dd4654d2fbecc51d4c23-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/31137a7083f2ffec91955320d9b5962b-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/73b2f97a32eec78e8ae4f9c6255b1f29-p_e.jpg"
+            }
+          ],
+          "detailUrl": "https://www.zillow.com/homedetails/9400-Elm-Ct-LOT-558-Federal-Heights-CO-80260/58648196_zpid/",
+          "statusType": "FOR_SALE",
+          "statusText": "Home for sale",
+          "countryCurrency": "$",
+          "price": "$79,900",
+          "unformattedPrice": 79900,
+          "address": "9400 Elm Court Lot 558, Federal Heights, CO 80260",
+          "addressStreet": "9400 Elm Court Lot 558",
+          "addressCity": "Federal Heights",
+          "addressState": "CO",
+          "addressZipcode": "80260",
+          "isUndisclosedAddress": false,
+          "beds": 3,
+          "baths": 1,
+          "area": 924,
+          "latLong": { "latitude": 39.86966, "longitude": -105.02212 },
+          "isZillowOwned": false,
+          "variableData": { "type": "DAYS_ON", "text": "1 day on Zillow" },
+          "badgeInfo": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 58648196,
+              "streetAddress": "9400 Elm Court Lot 558",
+              "zipcode": "80260",
+              "city": "Federal Heights",
+              "state": "CO",
+              "latitude": 39.86966,
+              "longitude": -105.02212,
+              "price": 79900,
+              "bathrooms": 1,
+              "bedrooms": 3,
+              "livingArea": 924,
+              "homeType": "MANUFACTURED",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "zestimate": 80829,
+              "rentZestimate": 483,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 79900,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 20872,
+              "unit": "Lot 558",
+              "lotAreaValue": 0,
+              "lotAreaUnit": "sqft"
+            }
+          },
+          "isSaved": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "zestimate": 80829,
+          "shouldShowZestimateAsPrice": false,
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_48_23.jpg",
+          "info1String": "MLS ID #7728942",
+          "brokerName": "Metro 21 Real Estate Group",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "availabilityDate": null,
+          "list": true,
+          "relaxed": false
+        },
+        {
+          "zpid": "49455899",
+          "id": "49455899",
+          "providerListingId": null,
+          "imgSrc": "https://photos.zillowstatic.com/fp/eb0ca57e640df85cdf69d1904abe21aa-p_e.jpg",
+          "hasImage": true,
+          "carouselPhotos": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/eb0ca57e640df85cdf69d1904abe21aa-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/ea02edcc576a3ac521227f994a9cc508-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/0c00ea5985dcd3b0bce6de06a644e4ac-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/029d2e79fe2d3f35df142494f59b8bfa-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/43125436c4cb045585127bcbf0669403-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9b2d30e2baf7d751ade7b65dc7160dc6-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c34be54633bba39e5d58fff1ce5d2071-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/d51fe0db668df00636c6a7e9d808b535-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/de00e246223997f69b8f10c52bcde144-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9ac87bbe8f028c1afdb650d11d62c9b9-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/32d4867a8796fefb8524e8bbc46a38ba-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c8baf98f5baf903910b246343855a411-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/fdbb3fa4401c39d2a224856ae4335994-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/908281d489ec93ba3fd724dbd21fe607-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/425a51c500547e64dc9b38c47a39d9d6-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/8d19cb42878a5d4c143c86ba760b7deb-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e7ae25e11bb9f1c5d134afe2aa192bce-p_e.jpg"
+            }
+          ],
+          "detailUrl": "https://www.zillow.com/homedetails/11050-Gaylord-St-Northglenn-CO-80233/49455899_zpid/",
+          "statusType": "FOR_SALE",
+          "statusText": "Townhouse for sale",
+          "countryCurrency": "$",
+          "price": "$375,000",
+          "unformattedPrice": 375000,
+          "address": "11050 Gaylord St, Northglenn, CO 80233",
+          "addressStreet": "11050 Gaylord St",
+          "addressCity": "Northglenn",
+          "addressState": "CO",
+          "addressZipcode": "80233",
+          "isUndisclosedAddress": false,
+          "beds": 2,
+          "baths": 2,
+          "area": 1225,
+          "latLong": { "latitude": 39.897095, "longitude": -104.95997 },
+          "isZillowOwned": false,
+          "variableData": {
+            "type": "TIME_ON_INFO",
+            "text": "23 minutes ago",
+            "data": { "isFresh": false }
+          },
+          "badgeInfo": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 49455899,
+              "streetAddress": "11050 Gaylord St",
+              "zipcode": "80233",
+              "city": "Northglenn",
+              "state": "CO",
+              "latitude": 39.897095,
+              "longitude": -104.95997,
+              "price": 375000,
+              "bathrooms": 2,
+              "bedrooms": 2,
+              "livingArea": 1225,
+              "homeType": "TOWNHOUSE",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 375000,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 277526,
+              "lotAreaValue": 2178,
+              "lotAreaUnit": "sqft"
+            }
+          },
+          "isSaved": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "zestimate": null,
+          "shouldShowZestimateAsPrice": false,
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "info3String": "https://photos.zillowstatic.com/fp/9c99c1ca6093dad43ed6b82abecf9a71-zillow_web_48_23.jpg",
+          "info2String": "Listing provided by IRES",
+          "brokerName": "RE/MAX Northwest",
+          "info6String": "John Subry",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "availabilityDate": null,
+          "list": true,
+          "relaxed": false
+        },
+        {
+          "zpid": "13692822",
+          "id": "13692822",
+          "providerListingId": null,
+          "imgSrc": "https://photos.zillowstatic.com/fp/bc44020748873b23f664637acecd3444-p_e.jpg",
+          "hasImage": true,
+          "carouselPhotos": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/bc44020748873b23f664637acecd3444-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/fcf39d0c167f3c4850cbb5feeabc1cc0-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/148de343c037ad0b99405580d227352c-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/6c3bafbb65238ed326867088b13c0114-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f50a7c2a4fb49fe39ff02cb731345cad-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/700a6f7e5190233d4545e0eb91e7c7c3-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/735f7f29b7eb697e9d116f504de80592-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/d5c46337465568d727ae234dd001e862-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/2e2a2b1ab8913e9b456c1679f297f196-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/66b422df9853f08d048f31153b72001a-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f9e1f8726f658b0514ce2f5e88267f11-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/82726a2de27bf47f36549b86f0124fdb-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f145b79705a46807961d7c0b25c7f777-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/fa84aefda5dd45a6916b415c96714489-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/5e4dda11f4f81849ff0e3d96017fcb96-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/772be901dc5ba6b92c2286841a1d77a4-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/63ef2c33b86b27987a90efb7f6e6d3f2-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e304a1324697580921fdc337bef5b33f-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/9db75bbe2c14b56b0fd0576df60e97e8-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/1e2d64b3059124713313de9d6b0e2b43-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/93e78c1f14fc254623c322645f725ff3-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/fd7f3cae3e9523e7b7626be1e0f7dd28-p_e.jpg"
+            }
+          ],
+          "detailUrl": "https://www.zillow.com/homedetails/5550-W-80th-Pl-APT-8-Arvada-CO-80003/13692822_zpid/",
+          "statusType": "FOR_SALE",
+          "statusText": "Condo for sale",
+          "countryCurrency": "$",
+          "price": "$255,000",
+          "unformattedPrice": 255000,
+          "address": "5550 W 80th Place Unit 8, Arvada, CO 80003",
+          "addressStreet": "5550 W 80th Place Unit 8",
+          "addressCity": "Arvada",
+          "addressState": "CO",
+          "addressZipcode": "80003",
+          "isUndisclosedAddress": false,
+          "beds": 2,
+          "baths": 1,
+          "area": 844,
+          "latLong": { "latitude": 39.84254, "longitude": -105.05801 },
+          "isZillowOwned": false,
+          "variableData": {
+            "type": "TIME_ON_INFO",
+            "text": "3 hours ago",
+            "data": { "isFresh": false }
+          },
+          "badgeInfo": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 13692822,
+              "streetAddress": "5550 W 80th Place Unit 8",
+              "zipcode": "80003",
+              "city": "Arvada",
+              "state": "CO",
+              "latitude": 39.84254,
+              "longitude": -105.05801,
+              "price": 255000,
+              "bathrooms": 1,
+              "bedrooms": 2,
+              "livingArea": 844,
+              "homeType": "CONDO",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "zestimate": 250952,
+              "rentZestimate": 1749,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 255000,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 207080,
+              "unit": "Apt 8"
+            }
+          },
+          "isSaved": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "zestimate": 250952,
+          "shouldShowZestimateAsPrice": false,
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_48_23.jpg",
+          "info1String": "MLS ID #7293883",
+          "brokerName": "Coldwell Banker Realty 24",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "availabilityDate": null,
+          "list": true,
+          "relaxed": false
+        },
+        {
+          "zpid": "2061860260",
+          "id": "2061860260",
+          "providerListingId": null,
+          "imgSrc": "https://photos.zillowstatic.com/fp/22245a1b5a4a18d87732f7122d5ec9c5-p_e.jpg",
+          "hasImage": true,
+          "carouselPhotos": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/22245a1b5a4a18d87732f7122d5ec9c5-p_e.jpg"
+            }
+          ],
+          "detailUrl": "https://www.zillow.com/homedetails/3250-Oneal-Cir-APT-J33-Boulder-CO-80301/2061860260_zpid/",
+          "statusType": "FOR_SALE",
+          "statusText": "Coming soon",
+          "countryCurrency": "$",
+          "price": "$304,500",
+          "unformattedPrice": 304500,
+          "address": "3250 Oneal Circle Unit J33, Boulder, CO 80301",
+          "addressStreet": "3250 Oneal Circle Unit J33",
+          "addressCity": "Boulder",
+          "addressState": "CO",
+          "addressZipcode": "80301",
+          "isUndisclosedAddress": false,
+          "beds": 1,
+          "baths": 1,
+          "area": 505,
+          "latLong": { "latitude": 40.03311, "longitude": -105.250885 },
+          "isZillowOwned": false,
+          "variableData": {
+            "type": "MARKET_UPDATE",
+            "text": "On market Mar 30"
+          },
+          "badgeInfo": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 2061860260,
+              "streetAddress": "3250 Oneal Circle Unit J33",
+              "zipcode": "80301",
+              "city": "Boulder",
+              "state": "CO",
+              "latitude": 40.03311,
+              "longitude": -105.250885,
+              "price": 304500,
+              "bathrooms": 1,
+              "bedrooms": 1,
+              "livingArea": 505,
+              "homeType": "CONDO",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "listing_sub_type": { "is_comingSoon": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 304500,
+              "comingSoonOnMarketDate": 1680134400000,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "unit": "Apt J33"
+            }
+          },
+          "isSaved": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "pgapt": "ComingSoon",
+          "sgapt": "Coming Soon",
+          "zestimate": null,
+          "shouldShowZestimateAsPrice": false,
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_48_23.jpg",
+          "info1String": "MLS ID #4263881",
+          "brokerName": "Keller Williams Realty Urban Elite",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "availabilityDate": null,
+          "list": true,
+          "relaxed": false
+        },
+        {
+          "zpid": "13223264",
+          "id": "13223264",
+          "providerListingId": null,
+          "imgSrc": "https://photos.zillowstatic.com/fp/748197f8a3b92a056586277877f356ab-p_e.jpg",
+          "hasImage": true,
+          "carouselPhotos": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/748197f8a3b92a056586277877f356ab-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/43e4197eadd2b6bb70217c9683baba67-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/81b02d9d267af3376b6ef90b0e938809-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/f88249fbd416b5bc95b827d0c3d6de68-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/33ae70a64a671be6947feed021cddc74-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/44ea8c502ade400c4cbe4ebef30f4c76-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/09ea291fef46b9e741dd39d83de2b032-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/70fe661cd7828b7380e3c4d8f3c75919-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/2adbbcfc3b9abf488219e438d51313eb-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/a62bbe4c4f648a08ea14d75fb7068d3a-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/20e8eafb03462eb47b98578db65e3f22-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/88db25617c16d4e37073f5adc38ad55f-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/04997a42c2876527b6b818a99e4d4d45-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4fafc989eed6e784a66e4679c45678b9-p_e.jpg"
+            }
+          ],
+          "detailUrl": "https://www.zillow.com/homedetails/3150-Iris-Ave-F310-Boulder-CO-80301/13223264_zpid/",
+          "statusType": "FOR_SALE",
+          "statusText": "Condo for sale",
+          "countryCurrency": "$",
+          "price": "$320,000",
+          "unformattedPrice": 320000,
+          "address": "3150 Iris Avenue Unit F310, Boulder, CO 80301",
+          "addressStreet": "3150 Iris Avenue Unit F310",
+          "addressCity": "Boulder",
+          "addressState": "CO",
+          "addressZipcode": "80301",
+          "isUndisclosedAddress": false,
+          "beds": 1,
+          "baths": 1,
+          "area": 694,
+          "latLong": { "latitude": 40.036106, "longitude": -105.251015 },
+          "isZillowOwned": false,
+          "variableData": { "type": "DAYS_ON", "text": "1 day on Zillow" },
+          "badgeInfo": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 13223264,
+              "streetAddress": "3150 Iris Avenue Unit F310",
+              "zipcode": "80301",
+              "city": "Boulder",
+              "state": "CO",
+              "latitude": 40.036106,
+              "longitude": -105.251015,
+              "price": 320000,
+              "bathrooms": 1,
+              "bedrooms": 1,
+              "livingArea": 694,
+              "homeType": "CONDO",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "zestimate": 323855,
+              "rentZestimate": 1949,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 320000,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 257900,
+              "unit": "# F310"
+            }
+          },
+          "isSaved": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "zestimate": 323855,
+          "shouldShowZestimateAsPrice": false,
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_48_23.jpg",
+          "info1String": "MLS ID #8911406",
+          "brokerName": "Coldwell Banker Realty 56",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "availabilityDate": null,
+          "list": true,
+          "relaxed": false
+        },
+        {
+          "zpid": "58645022",
+          "id": "58645022",
+          "providerListingId": null,
+          "imgSrc": "https://photos.zillowstatic.com/fp/6241e87f70768fa6a6c218e3e3a4d010-p_e.jpg",
+          "hasImage": true,
+          "carouselPhotos": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/6241e87f70768fa6a6c218e3e3a4d010-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/4e0d03bb2471c3a402552c43f4d2a702-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e88f466cf2a2ada191b1aa5e8962cfc2-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/30a85642eb612bc01819fc947cabc661-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/dec5397094f829489d79b31c02ec29a9-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3d78de8b948357df910b40b17896636d-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3d552027c3ac083003a3b3cf98d6dc09-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/b68d52d655dff7a9ae220a21237c7828-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/c5d5f2b27f36f5f9884b08a6ff1eeda3-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/a13213822e01ce975774484cfc36744c-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/df09601e9539894e09ee1e8d5a812047-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/cd63b254dbaec9eb9ff06ddc6de27a93-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3d5be44a01cefa725c6a009e3864809d-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/e29f3816f3751639f918de7563849fab-p_e.jpg"
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/5aa8abd6b6b63b4eab78dcfcc990ee02-p_e.jpg"
+            }
+          ],
+          "detailUrl": "https://www.zillow.com/homedetails/9595-Pecos-St-LOT-574-Thornton-CO-80260/58645022_zpid/",
+          "statusType": "FOR_SALE",
+          "statusText": "Home for sale",
+          "countryCurrency": "$",
+          "price": "$95,000",
+          "unformattedPrice": 95000,
+          "address": "9595 Pecos Street Lot 574, Thornton, CO 80260",
+          "addressStreet": "9595 Pecos Street Lot 574",
+          "addressCity": "Thornton",
+          "addressState": "CO",
+          "addressZipcode": "80260",
+          "isUndisclosedAddress": false,
+          "beds": 3,
+          "baths": 2,
+          "area": 994,
+          "latLong": { "latitude": 39.873013, "longitude": -105.01343 },
+          "isZillowOwned": false,
+          "variableData": {
+            "type": "TIME_ON_INFO",
+            "text": "14 hours ago",
+            "data": { "isFresh": false }
+          },
+          "badgeInfo": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 58645022,
+              "streetAddress": "9595 Pecos Street Lot 574",
+              "zipcode": "80260",
+              "city": "Thornton",
+              "state": "CO",
+              "latitude": 39.873013,
+              "longitude": -105.01343,
+              "price": 95000,
+              "bathrooms": 2,
+              "bedrooms": 3,
+              "livingArea": 994,
+              "homeType": "MANUFACTURED",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "zestimate": 96117,
+              "rentZestimate": 531,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 95000,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 18504,
+              "unit": "Lot 574",
+              "lotAreaValue": 0,
+              "lotAreaUnit": "sqft"
+            }
+          },
+          "isSaved": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "zestimate": 96117,
+          "shouldShowZestimateAsPrice": false,
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_48_23.jpg",
+          "info1String": "MLS ID #6113941",
+          "brokerName": "JPAR Modern Real Estate Co",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "availabilityDate": null,
+          "list": true,
+          "relaxed": false
+        },
+        {
+          "zpid": "2061788772",
+          "id": "2061788772",
+          "providerListingId": "29757145",
+          "imgSrc": "https://photos.zillowstatic.com/fp/06d26a7ec3081222bb6a35e397ee603e-p_e.jpg",
+          "hasImage": true,
+          "carouselPhotos": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/06d26a7ec3081222bb6a35e397ee603e-p_e.jpg"
+            }
+          ],
+          "detailUrl": "https://www.zillow.com/community/candelas-townhomes/2061788772_zpid/",
+          "isPropertyResultCDP": true,
+          "statusType": "FOR_SALE",
+          "statusText": "New construction",
+          "countryCurrency": "$",
+          "price": "$0+",
+          "unformattedPrice": 0,
+          "address": "Homes Available Soon Plan, Candelas Townhomes",
+          "addressStreet": "Homes Available Soon Plan, Candelas Townhomes",
+          "addressCity": "Arvada",
+          "addressState": "CO",
+          "addressZipcode": "80007",
+          "isUndisclosedAddress": false,
+          "beds": null,
+          "baths": 0,
+          "area": null,
+          "latLong": { "latitude": 39.86818, "longitude": -105.191696 },
+          "isZillowOwned": false,
+          "variableData": {
+            "type": "OPEN_HOUSE",
+            "text": "Open: Pre-Sales Anticip..."
+          },
+          "badgeInfo": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 2061788772,
+              "streetAddress": "Homes Available Soon Plan, Candelas Townhomes",
+              "zipcode": "80007",
+              "city": "Arvada",
+              "state": "CO",
+              "latitude": 39.86818,
+              "longitude": -105.191696,
+              "price": 0,
+              "bathrooms": 0,
+              "homeType": "SINGLE_FAMILY",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "group_type": "BUILDER_COMMUNITY",
+              "rentZestimate": 3800,
+              "listing_sub_type": { "is_newHome": true, "is_openHouse": true },
+              "openHouse": "Sat. 8-8:30am",
+              "priceSuffix": "+",
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 0,
+              "open_house_info": {
+                "open_house_showing": [
+                  {
+                    "open_house_start": 1680361200000,
+                    "open_house_end": 1680363000000
+                  },
+                  {
+                    "open_house_start": 1680793200000,
+                    "open_house_end": 1680795000000
+                  }
+                ]
+              },
+              "providerListingID": "29757145",
+              "newConstructionType": "BUILDER_PLAN",
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": true,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "unit": "# 4ZEYYX"
+            }
+          },
+          "isSaved": false,
+          "hasOpenHouse": true,
+          "openHouseStartDate": "2023-04-01T08:00:00",
+          "openHouseEndDate": "2023-04-01T08:30:00",
+          "openHouseDescription": "Open House - 8:00 - 8:30 AM",
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "pgapt": "ForSale",
+          "sgapt": "New Construction",
+          "zestimate": null,
+          "shouldShowZestimateAsPrice": false,
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "builderName": "Tri Pointe Homes",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "availabilityDate": null,
+          "list": true,
+          "relaxed": false
+        }
+      ],
+      "resultsHash": "50ecba74",
+      "homeRecCount": 0,
+      "showForYouCount": 0,
+      "mapResults": [
+        {
+          "zpid": "13694892",
+          "price": "$430,000",
+          "priceLabel": "$430K",
+          "beds": 3,
+          "baths": 4,
+          "area": 1650,
+          "latLong": { "latitude": 39.85559, "longitude": -105.09301 },
+          "statusType": "FOR_SALE",
+          "statusText": "Coming soon",
+          "isFavorite": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "imgSrc": "https://photos.zillowstatic.com/fp/8f18a1b8fe2a5ba23b0722ba9b6bb328-p_e.jpg",
+          "hasImage": true,
+          "visited": false,
+          "listingType": "",
+          "variableData": {
+            "type": "OPEN_HOUSE",
+            "text": "Open: Sat. 11am-1pm"
+          },
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 13694892,
+              "zipcode": "80005",
+              "city": "Westminster",
+              "state": "CO",
+              "latitude": 39.85559,
+              "longitude": -105.09301,
+              "price": 430000,
+              "bathrooms": 4,
+              "bedrooms": 3,
+              "livingArea": 1650,
+              "homeType": "TOWNHOUSE",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "zestimate": 292300,
+              "rentZestimate": 2228,
+              "listing_sub_type": {
+                "is_openHouse": true,
+                "is_comingSoon": true
+              },
+              "openHouse": "Sat. 11am-1pm",
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 430000,
+              "open_house_info": {
+                "open_house_showing": [
+                  {
+                    "open_house_start": 1680372000000,
+                    "open_house_end": 1680379200000
+                  }
+                ]
+              },
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 258777,
+              "lotAreaValue": 1612,
+              "lotAreaUnit": "sqft"
+            }
+          },
+          "shouldShowZestimateAsPrice": false,
+          "detailUrl": "/homedetails/8722-Carr-Loop-Westminster-CO-80005/13694892_zpid/",
+          "pgapt": "ComingSoon",
+          "sgapt": "Coming Soon",
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "address": "--",
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_inf_14.jpg",
+          "info1String": "MLS ID #5393433",
+          "brokerName": "Real Broker LLC",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "isShowcaseListing": false,
+          "availabilityDate": null,
+          "timeOnZillow": 85494000
+        },
+        {
+          "zpid": "157443882",
+          "price": "$259,990",
+          "priceLabel": "$260K",
+          "beds": 2,
+          "baths": 2,
+          "area": 1326,
+          "latLong": { "latitude": 40.0901, "longitude": -104.92852 },
+          "statusType": "FOR_SALE",
+          "statusText": "Home for sale",
+          "isFavorite": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "imgSrc": "https://photos.zillowstatic.com/fp/de4eef73c20c01d91462762244bed91e-p_e.jpg",
+          "hasImage": true,
+          "visited": false,
+          "listingType": "",
+          "variableData": {
+            "type": "TIME_ON_INFO",
+            "text": "23 hours ago",
+            "data": { "isFresh": false }
+          },
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 157443882,
+              "zipcode": "80530",
+              "city": "Frederick",
+              "state": "CO",
+              "latitude": 40.0901,
+              "longitude": -104.92852,
+              "price": 259990,
+              "bathrooms": 2,
+              "bedrooms": 2,
+              "livingArea": 1326,
+              "homeType": "MANUFACTURED",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "rentZestimate": 2028,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 259990,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 128235,
+              "unit": "# 292",
+              "lotAreaValue": 3049.2,
+              "lotAreaUnit": "sqft"
+            }
+          },
+          "shouldShowZestimateAsPrice": false,
+          "detailUrl": "/homedetails/6174-Needlegrass-Grn-292-Frederick-CO-80530/157443882_zpid/",
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "address": "--",
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_inf_14.jpg",
+          "info1String": "MLS ID #8347398",
+          "brokerName": "JPAR Modern Real Estate",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "isShowcaseListing": false,
+          "availabilityDate": null,
+          "timeOnZillow": 83509420
+        },
+        {
+          "zpid": "58648196",
+          "price": "$79,900",
+          "priceLabel": "$80K",
+          "beds": 3,
+          "baths": 1,
+          "area": 924,
+          "latLong": { "latitude": 39.86966, "longitude": -105.02212 },
+          "statusType": "FOR_SALE",
+          "statusText": "Home for sale",
+          "isFavorite": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "imgSrc": "https://photos.zillowstatic.com/fp/95775746a693698a081fcefa5de6f65e-p_e.jpg",
+          "hasImage": true,
+          "visited": false,
+          "listingType": "",
+          "variableData": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 58648196,
+              "zipcode": "80260",
+              "city": "Federal Heights",
+              "state": "CO",
+              "latitude": 39.86966,
+              "longitude": -105.02212,
+              "price": 79900,
+              "bathrooms": 1,
+              "bedrooms": 3,
+              "livingArea": 924,
+              "homeType": "MANUFACTURED",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "zestimate": 80829,
+              "rentZestimate": 483,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 79900,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 20872,
+              "unit": "Lot 558",
+              "lotAreaValue": 0,
+              "lotAreaUnit": "sqft"
+            }
+          },
+          "shouldShowZestimateAsPrice": false,
+          "detailUrl": "/homedetails/9400-Elm-Ct-LOT-558-Federal-Heights-CO-80260/58648196_zpid/",
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "address": "--",
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_inf_14.jpg",
+          "info1String": "MLS ID #7728942",
+          "brokerName": "Metro 21 Real Estate Group",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "isShowcaseListing": false,
+          "availabilityDate": null,
+          "timeOnZillow": 91540420
+        },
+        {
+          "zpid": "49455899",
+          "price": "$375,000",
+          "priceLabel": "$375K",
+          "beds": 2,
+          "baths": 2,
+          "area": 1225,
+          "latLong": { "latitude": 39.897095, "longitude": -104.95997 },
+          "statusType": "FOR_SALE",
+          "statusText": "Townhouse for sale",
+          "isFavorite": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "imgSrc": "https://photos.zillowstatic.com/fp/eb0ca57e640df85cdf69d1904abe21aa-p_e.jpg",
+          "hasImage": true,
+          "visited": false,
+          "listingType": "",
+          "variableData": {
+            "type": "TIME_ON_INFO",
+            "text": "23 minutes ago",
+            "data": { "isFresh": false }
+          },
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 49455899,
+              "zipcode": "80233",
+              "city": "Northglenn",
+              "state": "CO",
+              "latitude": 39.897095,
+              "longitude": -104.95997,
+              "price": 375000,
+              "bathrooms": 2,
+              "bedrooms": 2,
+              "livingArea": 1225,
+              "homeType": "TOWNHOUSE",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 375000,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 277526,
+              "lotAreaValue": 2178,
+              "lotAreaUnit": "sqft"
+            }
+          },
+          "shouldShowZestimateAsPrice": false,
+          "detailUrl": "/homedetails/11050-Gaylord-St-Northglenn-CO-80233/49455899_zpid/",
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "address": "--",
+          "info3String": "https://photos.zillowstatic.com/fp/9c99c1ca6093dad43ed6b82abecf9a71-zillow_web_inf_14.jpg",
+          "info1String": "MLS ID #984341",
+          "brokerName": "RE/MAX Northwest",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "isShowcaseListing": false,
+          "availabilityDate": null,
+          "timeOnZillow": 1407983
+        },
+        {
+          "zpid": "13692822",
+          "price": "$255,000",
+          "priceLabel": "$255K",
+          "beds": 2,
+          "baths": 1,
+          "area": 844,
+          "latLong": { "latitude": 39.84254, "longitude": -105.05801 },
+          "statusType": "FOR_SALE",
+          "statusText": "Condo for sale",
+          "isFavorite": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "imgSrc": "https://photos.zillowstatic.com/fp/bc44020748873b23f664637acecd3444-p_e.jpg",
+          "hasImage": true,
+          "visited": false,
+          "listingType": "",
+          "variableData": {
+            "type": "TIME_ON_INFO",
+            "text": "3 hours ago",
+            "data": { "isFresh": false }
+          },
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 13692822,
+              "zipcode": "80003",
+              "city": "Arvada",
+              "state": "CO",
+              "latitude": 39.84254,
+              "longitude": -105.05801,
+              "price": 255000,
+              "bathrooms": 1,
+              "bedrooms": 2,
+              "livingArea": 844,
+              "homeType": "CONDO",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "zestimate": 250952,
+              "rentZestimate": 1749,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 255000,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 207080,
+              "unit": "Apt 8"
+            }
+          },
+          "shouldShowZestimateAsPrice": false,
+          "detailUrl": "/homedetails/5550-W-80th-Pl-APT-8-Arvada-CO-80003/13692822_zpid/",
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "address": "--",
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_inf_14.jpg",
+          "info1String": "MLS ID #7293883",
+          "brokerName": "Coldwell Banker Realty 24",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "isShowcaseListing": false,
+          "availabilityDate": null,
+          "timeOnZillow": 12187420
+        },
+        {
+          "zpid": "2061860260",
+          "price": "$304,500",
+          "priceLabel": "$305K",
+          "beds": 1,
+          "baths": 1,
+          "area": 505,
+          "latLong": { "latitude": 40.03311, "longitude": -105.250885 },
+          "statusType": "FOR_SALE",
+          "statusText": "Coming soon",
+          "isFavorite": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "imgSrc": "https://photos.zillowstatic.com/fp/22245a1b5a4a18d87732f7122d5ec9c5-p_e.jpg",
+          "hasImage": true,
+          "visited": false,
+          "listingType": "",
+          "variableData": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 2061860260,
+              "zipcode": "80301",
+              "city": "Boulder",
+              "state": "CO",
+              "latitude": 40.03311,
+              "longitude": -105.250885,
+              "price": 304500,
+              "bathrooms": 1,
+              "bedrooms": 1,
+              "livingArea": 505,
+              "homeType": "CONDO",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "listing_sub_type": { "is_comingSoon": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 304500,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "unit": "Apt J33"
+            }
+          },
+          "shouldShowZestimateAsPrice": false,
+          "detailUrl": "/homedetails/3250-Oneal-Cir-APT-J33-Boulder-CO-80301/2061860260_zpid/",
+          "pgapt": "ComingSoon",
+          "sgapt": "Coming Soon",
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "address": "--",
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_inf_14.jpg",
+          "info1String": "MLS ID #4263881",
+          "brokerName": "Keller Williams Realty Urban Elite",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "isShowcaseListing": false,
+          "availabilityDate": null,
+          "timeOnZillow": 144338481
+        },
+        {
+          "zpid": "13223264",
+          "price": "$320,000",
+          "priceLabel": "$320K",
+          "beds": 1,
+          "baths": 1,
+          "area": 694,
+          "latLong": { "latitude": 40.036106, "longitude": -105.251015 },
+          "statusType": "FOR_SALE",
+          "statusText": "Condo for sale",
+          "isFavorite": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "imgSrc": "https://photos.zillowstatic.com/fp/748197f8a3b92a056586277877f356ab-p_e.jpg",
+          "hasImage": true,
+          "visited": false,
+          "listingType": "",
+          "variableData": null,
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 13223264,
+              "zipcode": "80301",
+              "city": "Boulder",
+              "state": "CO",
+              "latitude": 40.036106,
+              "longitude": -105.251015,
+              "price": 320000,
+              "bathrooms": 1,
+              "bedrooms": 1,
+              "livingArea": 694,
+              "homeType": "CONDO",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "zestimate": 323855,
+              "rentZestimate": 1949,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 320000,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 257900,
+              "unit": "# F310"
+            }
+          },
+          "shouldShowZestimateAsPrice": false,
+          "detailUrl": "/homedetails/3150-Iris-Ave-F310-Boulder-CO-80301/13223264_zpid/",
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "address": "--",
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_inf_14.jpg",
+          "info1String": "MLS ID #8911406",
+          "brokerName": "Coldwell Banker Realty 56",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "isShowcaseListing": false,
+          "availabilityDate": null,
+          "timeOnZillow": 88538420
+        },
+        {
+          "zpid": "58645022",
+          "price": "$95,000",
+          "priceLabel": "$95K",
+          "beds": 3,
+          "baths": 2,
+          "area": 994,
+          "latLong": { "latitude": 39.873013, "longitude": -105.01343 },
+          "statusType": "FOR_SALE",
+          "statusText": "Home for sale",
+          "isFavorite": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "imgSrc": "https://photos.zillowstatic.com/fp/6241e87f70768fa6a6c218e3e3a4d010-p_e.jpg",
+          "hasImage": true,
+          "visited": false,
+          "listingType": "",
+          "variableData": {
+            "type": "TIME_ON_INFO",
+            "text": "14 hours ago",
+            "data": { "isFresh": false }
+          },
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 58645022,
+              "zipcode": "80260",
+              "city": "Thornton",
+              "state": "CO",
+              "latitude": 39.873013,
+              "longitude": -105.01343,
+              "price": 95000,
+              "bathrooms": 2,
+              "bedrooms": 3,
+              "livingArea": 994,
+              "homeType": "MANUFACTURED",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "zestimate": 96117,
+              "rentZestimate": 531,
+              "listing_sub_type": { "is_FSBA": true },
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 95000,
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": false,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "taxAssessedValue": 18504,
+              "unit": "Lot 574",
+              "lotAreaValue": 0,
+              "lotAreaUnit": "sqft"
+            }
+          },
+          "shouldShowZestimateAsPrice": false,
+          "detailUrl": "/homedetails/9595-Pecos-St-LOT-574-Thornton-CO-80260/58645022_zpid/",
+          "pgapt": "ForSale",
+          "sgapt": "For Sale (Broker)",
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "address": "--",
+          "info3String": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_inf_14.jpg",
+          "info1String": "MLS ID #6113941",
+          "brokerName": "JPAR Modern Real Estate Co",
+          "hasAdditionalAttributions": true,
+          "isFeaturedListing": false,
+          "isShowcaseListing": false,
+          "availabilityDate": null,
+          "timeOnZillow": 50599420
+        },
+        {
+          "zpid": "2061788772",
+          "price": "$0+",
+          "priceLabel": "$0",
+          "beds": null,
+          "baths": 0,
+          "area": null,
+          "latLong": { "latitude": 39.86818, "longitude": -105.191696 },
+          "statusType": "FOR_SALE",
+          "statusText": "New construction",
+          "isFavorite": false,
+          "isUserClaimingOwner": false,
+          "isUserConfirmedClaim": false,
+          "imgSrc": "https://photos.zillowstatic.com/fp/06d26a7ec3081222bb6a35e397ee603e-p_e.jpg",
+          "hasImage": true,
+          "visited": false,
+          "listingType": "NEW_CONSTRUCTION",
+          "variableData": {
+            "type": "OPEN_HOUSE",
+            "text": "Open: Pre-Sales Anticip..."
+          },
+          "hdpData": {
+            "homeInfo": {
+              "zpid": 2061788772,
+              "zipcode": "80007",
+              "city": "Arvada",
+              "state": "CO",
+              "latitude": 39.86818,
+              "longitude": -105.191696,
+              "price": 0,
+              "bathrooms": 0,
+              "homeType": "SINGLE_FAMILY",
+              "homeStatus": "FOR_SALE",
+              "daysOnZillow": -1,
+              "isFeatured": false,
+              "shouldHighlight": false,
+              "group_type": "BUILDER_COMMUNITY",
+              "rentZestimate": 3800,
+              "listing_sub_type": { "is_newHome": true, "is_openHouse": true },
+              "openHouse": "Sat. 8-8:30am",
+              "priceSuffix": "+",
+              "isUnmappable": false,
+              "isPreforeclosureAuction": false,
+              "homeStatusForHDP": "FOR_SALE",
+              "priceForHDP": 0,
+              "open_house_info": {
+                "open_house_showing": [
+                  {
+                    "open_house_start": 1680361200000,
+                    "open_house_end": 1680363000000
+                  },
+                  {
+                    "open_house_start": 1680793200000,
+                    "open_house_end": 1680795000000
+                  }
+                ]
+              },
+              "providerListingID": "29757145",
+              "newConstructionType": "BUILDER_PLAN",
+              "isNonOwnerOccupied": true,
+              "isPremierBuilder": true,
+              "isZillowOwned": false,
+              "currency": "USD",
+              "country": "USA",
+              "unit": "# 4ZEYYX"
+            }
+          },
+          "shouldShowZestimateAsPrice": false,
+          "communityName": "Candelas Townhomes",
+          "isPropertyResultCDP": true,
+          "detailUrl": "/community/candelas-townhomes/29757145_plid/",
+          "pgapt": "ForSale",
+          "sgapt": "New Construction",
+          "has3DModel": false,
+          "hasVideo": false,
+          "isHomeRec": false,
+          "address": "--",
+          "hasAdditionalAttributions": false,
+          "isFeaturedListing": false,
+          "isShowcaseListing": false,
+          "availabilityDate": null,
+          "timeOnZillow": 131366421,
+          "style": null,
+          "isCdpResult": true,
+          "unitCount": 1
+        }
+      ],
+      "relaxedResults": [],
+      "relaxedResultsHash": "1"
+    },
+    "searchList": {
+      "expansionDistance": 0,
+      "zeroResultsFilters": null,
+      "message": null,
+      "adsConfig": {
+        "navAdSlot": "",
+        "displayAdSlot": "",
+        "targets": {},
+        "needsUpdate": false
+      },
+      "totalResultCount": 9,
+      "resultsPerPage": 40,
+      "totalPages": 1,
+      "displayResultsCount": 9,
+      "listResultsTitle": "Real Estate & Homes For Sale",
+      "resultContexts": [
+        {
+          "ssid": 71,
+          "context": "Information source: Information and Real Estate Services, LLC. Provided for limited non-commercial use only under IRES Rules © Copyright IRES.\n\nListing information is provided exclusively for consumers' personal, non-commercial use and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing.\n\nInformation deemed reliable but not guaranteed by the MLS.\n\nCompensation information displayed on listing details is only\napplicable to other participants and subscribers of the source MLS.",
+          "contextImage": "https://photos.zillowstatic.com/fp/9c99c1ca6093dad43ed6b82abecf9a71-zillow_web_95_35.jpg"
+        },
+        {
+          "ssid": 14015,
+          "context": null,
+          "contextImage": "https://photos.zillowstatic.com/fp/8c5f7f741178a65688e3299476d07ed5-zillow_web_95_35.jpg"
+        },
+        {
+          "ssid": 17059,
+          "context": "© 2023 REcolorado® All rights reserved. Certain information contained herein is derived from information which is the licensed property of, and copyrighted by, REcolorado®. [Click here for more information](/info/mls-disclaimers/#17059)\n\nThe listing broker’s offer of compensation is made only to participants of the MLS where the listing is filed.",
+          "contextImage": "https://photos.zillowstatic.com/fp/8dd1dd7033ea7ca8cc1a403da3dafc72-zillow_web_95_35.jpg"
+        }
+      ],
+      "pageRules": "PropertySearchLookupResponseRules(isAdsRestricted=false, lowestLimitSearchResultsCount=null)",
+      "shareConfig": {
+        "captchaKey": "6Lf2nvMSAAAAAMQ5p6WlAfDEixMdOQgJsij-3_ud"
+      }
+    }
+  }
+}
