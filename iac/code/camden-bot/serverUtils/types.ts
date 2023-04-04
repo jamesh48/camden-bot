@@ -1,4 +1,4 @@
-export type FloorPlanName = "A" | "B" | "C" | "D" | "E" | "F" | "G";
+export type FloorPlanName = 'A' | 'B' | 'C' | 'D' | 'E' | 'F' | 'G';
 export type SuggestedFloorPlan = {
   availableUnits: number;
   availableUnitIds: string[];
@@ -22,7 +22,7 @@ export interface CamdenResult {
 export interface FinalCamdenResults {
   apartment: string;
   floorPlanName: FloorPlanName;
-  avgRent: number;
+  avgRent: string;
   bestRentClosestToMoveIn: NextDate | undefined;
   priceData: NextDate[];
 }

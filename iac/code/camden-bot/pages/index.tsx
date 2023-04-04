@@ -1,7 +1,7 @@
-import Home from "@/components/Home";
-import CamdenBotTitle from "@/components/Title";
-import { fetchCamdenResults } from "@/serverUtils/fetchCamdenResults";
-import { FinalCamdenResults } from "@/serverUtils/types";
+import Home from '@/components/Home';
+import CamdenBotTitle from '@/components/Title';
+import { fetchCamdenResults } from '@/serverUtils/fetchCamdenResults';
+import { FinalCamdenResults } from '@/serverUtils/types';
 
 export default function App(props: { camdenResults: FinalCamdenResults[] }) {
   return (
