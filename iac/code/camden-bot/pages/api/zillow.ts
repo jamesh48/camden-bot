@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { NextApiRequest, NextApiResponse } from 'next';
-// import zillowJson from '../../components/zillow.json';
+
 const handler = async (req: NextApiRequest, res: NextApiResponse) => {
   const { daysOnZillow, maxPrice } = req.query;
   try {
@@ -12,7 +12,13 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
         'Content-Type': 'application/json',
         Connection: 'keep-alive',
         Accept: '*/*',
-        'User-Agent': 'PostmanRuntime/' + Math.random() + '.' + Math.random(),
+        'User-Agent':
+          'PostmanRuntime/' +
+          Math.random() +
+          '.' +
+          Math.random() +
+          '.' +
+          Math.random(),
       },
     });
 

@@ -3,44 +3,21 @@ import axios from 'axios';
 import { ListResult, ZillowResults } from '@/components/types';
 import { Box, Typography, FormControl, InputLabel, Input } from '@mui/material';
 import Image from 'next/image';
+import { fetchZillowResults } from '@/serverUtils/fetchZillowResults';
+import { fetchZillowResultsClient } from '@/clientUtils/fetchZillowResults';
 
-const ZillowApp = () => {
+export const getServerSideProps = async () => {
+  const results = await fetchZillowResults();
+  return results;
+};
+
+const ZillowApp = (props: ZillowResults) => {
   const [zillowResults, setZillowResults] = useState([] as ListResult[]);
   const [filterDaysOnZillow, setFilterDaysOnZillow] = useState(1);
-  const [filterMaxPrice, setFilterMaxPrice] = useState(450000);
-
-  const fetchZillowResults = async (filters: {
-    daysOnZillow: number;
-    maxPrice: number;
-  }) => {
-    const { data } = await axios<ZillowResults>({
-      url: '/api/zillow',
-      params: {
-        daysOnZillow: filters.daysOnZillow,
-        maxPrice: filters.maxPrice,
-      },
-    });
-
-    data.cat1?.searchResults.listResults.sort((a) => {
-      if (a.addressCity === 'Boulder') {
-        return -1;
-      }
-
-      if (['Louisville', 'Superior', 'Lafayette'].includes(a.addressCity)) {
-        return -1;
-      }
-
-      return 0;
-    });
-
-    const noTrailers = data.cat1?.searchResults.listResults.filter(
-      (x) => x.addressStreet.indexOf('Lot') === -1
-    );
-    setZillowResults(noTrailers || []);
-  };
+  const [filterMaxPrice, setFilterMaxPrice] = useState(500000);
 
   useEffect(() => {
-    fetchZillowResults({ daysOnZillow: 1, maxPrice: 450000 });
+    setZillowResults(props.cat1?.searchResults.listResults || []);
   }, []);
 
   const colorMap = {
@@ -93,12 +70,14 @@ const ZillowApp = () => {
     []
   );
 
-  const handleSubmit: FormEventHandler<HTMLFormElement> = (event) => {
+  const handleSubmit: FormEventHandler<HTMLFormElement> = async (event) => {
     event?.preventDefault();
-    fetchZillowResults({
+    const clientSideZillowResults = await fetchZillowResultsClient({
       daysOnZillow: filterDaysOnZillow,
       maxPrice: filterMaxPrice,
     });
+
+    setZillowResults(clientSideZillowResults);
   };
 
   const handleChange: React.ChangeEventHandler<
@@ -145,23 +124,32 @@ const ZillowApp = () => {
           padding: '1.5rem',
         }}
       >
-        {columns.map((column, index) => {
-          return (
-            <Box
-              key={index}
-              sx={{
-                display: 'flex',
-                justifyContent: 'center',
-                flexDirection: 'column',
-                alignSelf: 'flex-start',
-                paddingRight: '3rem',
-                height: '100%',
-              }}
-            >
-              {column}
-            </Box>
-          );
-        })}
+        {columns.length ? (
+          columns.map((column, index) => {
+            return (
+              <Box
+                key={index}
+                sx={{
+                  display: 'flex',
+                  justifyContent: 'center',
+                  flexDirection: 'column',
+                  alignSelf: 'flex-start',
+                  paddingRight: '3rem',
+                }}
+              >
+                {column}
+              </Box>
+            );
+          })
+        ) : (
+          <Box
+            sx={{ display: 'flex', justifyContent: 'center', width: '100%' }}
+          >
+            <Typography sx={{ textDecoration: 'underline' }} variant="h6">
+              There was an Error fetching Zillow Results
+            </Typography>
+          </Box>
+        )}
       </Box>
     </Box>
   );
