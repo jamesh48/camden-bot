@@ -4,7 +4,10 @@ import { ListResult, ZillowResults } from '@/components/types';
 import { Box, Typography, FormControl, InputLabel, Input } from '@mui/material';
 import Image from 'next/image';
 import { fetchZillowResults } from '@/serverUtils/fetchZillowResults';
-import { fetchZillowResultsClient } from '@/clientUtils/fetchZillowResults';
+import {
+  fetchZillowResultsClient,
+  sortAndFilterZillowResults,
+} from '@/clientUtils/fetchZillowResults';
 
 export const getServerSideProps = async () => {
   const results = await fetchZillowResults();
@@ -17,7 +20,8 @@ const ZillowApp = (props: ZillowResults) => {
   const [filterMaxPrice, setFilterMaxPrice] = useState(500000);
 
   useEffect(() => {
-    setZillowResults(props.cat1?.searchResults.listResults || []);
+    const parsedServerSideZillowResults = sortAndFilterZillowResults(props);
+    setZillowResults(parsedServerSideZillowResults);
   }, []);
 
   const colorMap = {

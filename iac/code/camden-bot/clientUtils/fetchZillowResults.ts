@@ -1,22 +1,7 @@
 import { ZillowResults } from '@/components/types';
 import axios from 'axios';
 
-export const fetchZillowResultsClient = async (filters: {
-  daysOnZillow: number;
-  maxPrice: number;
-}) => {
-  const { data } = await axios<ZillowResults>({
-    url: '/api/zillow',
-    params: {
-      daysOnZillow: filters.daysOnZillow,
-      maxPrice: filters.maxPrice,
-    },
-  });
-
-  if (typeof data === 'string') {
-    return [];
-  }
-
+export const sortAndFilterZillowResults = (data: ZillowResults) => {
   data.cat1?.searchResults.listResults.sort((a) => {
     if (a.addressCity === 'Boulder') {
       return -1;
@@ -34,4 +19,23 @@ export const fetchZillowResultsClient = async (filters: {
   );
 
   return noTrailers || [];
+};
+
+export const fetchZillowResultsClient = async (filters: {
+  daysOnZillow: number;
+  maxPrice: number;
+}) => {
+  const { data } = await axios<ZillowResults>({
+    url: '/api/zillow',
+    params: {
+      daysOnZillow: filters.daysOnZillow,
+      maxPrice: filters.maxPrice,
+    },
+  });
+
+  if (typeof data === 'string') {
+    return [];
+  }
+
+  return sortAndFilterZillowResults(data);
 };
